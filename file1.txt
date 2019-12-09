@@ -1,1 +1,2 @@
 This is the text of the first test file.
+I am adding a second line of text.
