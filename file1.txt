@@ -2,4 +2,6 @@
 <p>I am adding a second line of text.</p>
 <p>I am adding a third line of text.</p>
 
+Adding code after the new html.
+
 - html was added
