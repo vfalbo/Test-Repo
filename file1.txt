@@ -7,3 +7,5 @@ Adding code after the new html.
 Trying to add a pull request in master.
 
 - html was added
+
+This is the footer.
