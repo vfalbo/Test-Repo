@@ -9,3 +9,4 @@ Trying to add a pull request in master.
 - html was added
 
 This is the footer.
+Coded by Mr. Falbo
