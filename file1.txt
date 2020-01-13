@@ -1,6 +1,8 @@
-<p>This is the text of the first test file.</p>
-<p>I am adding a second line of text.</p>
-<p>I am adding a third line of text.</p>
+
+This is the text of the first test file.
+I am adding a second line of text.
+I am adding a third line of text.
+System.out.println("This file contains Java code.");
 
 Adding code after the new html.
 
@@ -9,3 +11,4 @@ Trying to add a pull request in master.
 - html was added
 
 This is the footer.
+
